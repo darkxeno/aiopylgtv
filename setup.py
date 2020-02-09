@@ -10,7 +10,7 @@ setup(
     extras_require={'calibration': ['numpy>=1.17.0']},
     python_requires=">=3.7",
     zip_safe=True,
-    version="0.3.2",
+    version="0.3.3",
     description="Library to control webOS based LG TV devices.",
     long_description=readme,
     long_description_content_type="text/markdown",
